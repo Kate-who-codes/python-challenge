@@ -21,28 +21,30 @@ PyBank: In this assignment  the task is to create a Python script that analyzes 
 
 
 
+
+
 PyPoll: In this challenge, the  task is  to  modernize town vote counting process.
 
 
-A  set of poll data called election_data.csv is given.  The dataset is composed of three columns: Voter ID, County, and Candidate. The task is to create a Python script that  
-analyzes the votes and calculates each of the following:
+ A  set of poll data called election_data.csv is given.  The dataset is composed of three columns: Voter ID, County, and Candidate. The task is to create a Python script that  
+ analyzes the votes and calculates each of the following:
 
 
-   The total number of votes cast
-       
-       A complete list of candidates who received votes
+   The total number of votes cast:
+        
+ A complete list of candidates who received votes
 
 
-    A complete list of candidates who received votes
+ A complete list of candidates who received votes
 
 
-    The percentage of votes each candidate won
+ The percentage of votes each candidate won
 
 
-    The total number of votes each candidate won
+ The total number of votes each candidate won
 
 
-     The winner of the election based on popular vote.
+ The winner of the election based on popular vote.
 
 
 
