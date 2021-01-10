@@ -23,10 +23,13 @@
 
 
 
-2. PyPoll: In this challenge, the  task is  to  modernize town vote counting process.
+
+
+2.PyPoll: In this challenge, the  task is  to  modernize town vote counting process.
 
 
  A  set of poll data called election_data.csv is given.  The dataset is composed of three columns: Voter ID, County, and Candidate. The task is to create a Python script that  
+ 
  analyzes the votes and calculates each of the following:
 
 
