@@ -1,6 +1,6 @@
 # python-challenge
 
-PyBank: In this assignment  the task is to create a Python script that analyzes the records to calculate each of the following:
+1.PyBank: In this assignment  the task is to create a Python script that analyzes the records to calculate each of the following:
 
 
    The total number of months included in the dataset
@@ -23,14 +23,14 @@ PyBank: In this assignment  the task is to create a Python script that analyzes 
 
 
 
-PyPoll: In this challenge, the  task is  to  modernize town vote counting process.
+2. PyPoll: In this challenge, the  task is  to  modernize town vote counting process.
 
 
  A  set of poll data called election_data.csv is given.  The dataset is composed of three columns: Voter ID, County, and Candidate. The task is to create a Python script that  
  analyzes the votes and calculates each of the following:
 
 
-   The total number of votes cast:
+ The total number of votes cast:
         
  A complete list of candidates who received votes
 
